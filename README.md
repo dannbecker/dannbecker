@@ -10,7 +10,7 @@
 
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am Daniel Becker, software developer at Lizard TI. I am currently working on API projects with Django and Flask, specially for Big Data. My most recent experienced work is with Elasticsearch.
+I am Daniel Becker, software developer at Lizard TI. I am currently working on API projects with Django and Flask, specially for Big Data. My most recent experienced work is with Elasticsearch. All my important projects are private, but you can contact me to talk about!
 
 <br>
 

@@ -107,15 +107,3 @@ Laboratório de pesquisa, desenvolvimento e inovação em IA generativa no Centr
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Estatísticas do GitHub</b>
-
-<p align="center">
-  <img width="460" src="https://streak-stats.demolab.com/?user=dannbecker&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69&locale=pt_BR"/>
-</p>
-
-<p align="center"><b>Obrigado pela visita!</b></p>
-
----
-
-Créditos do template: [Alamin](https://github.com/alamin2731)
